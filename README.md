@@ -16,3 +16,4 @@
   
 ## ✨ inspirações
   - o [tutorial](https://youtu.be/kN9Yfd4fu04) do [@JohannesMilke](https://github.com/JohannesMilke/todo_app_ui_example)
+  - minha amiga [Deb](https://instagram.com/honeymustarddl?igshid=MzRlODBiNWFlZA==)! 💛
