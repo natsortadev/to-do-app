@@ -14,7 +14,7 @@
 
 ## 📑 how to test it
   ```
-  git clone https://github.com/nat-thunder/to-do-app.git
+  git clone https://github.com/natsortadev/to-do-app.git
   ```
   
 ## ✨ inspirations
